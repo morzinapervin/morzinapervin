@@ -9,7 +9,7 @@ Hey! I'm Morzina Pervin. I'm a professional Website Developer. I started my care
 
 Skills and Experience:
 
-✅ Wordpress
+✅ Wordpress <br>
 ✅ JavaScript
 ✅ PHP
 ✅ HTML5 / CSS3 / Bootstrap
