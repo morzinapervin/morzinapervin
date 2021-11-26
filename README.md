@@ -4,18 +4,18 @@
 
 ### Hi there 👋, I'M MORZINA PERVIN
 #### WEB DEVELOPER
-
-Hey! I'm Morzina Pervin. I'm a professional Website Developer. I started my career as a Website Developer back in 2018. I have designed many creative and trendy websites in the fields of technical, health, fitness, beauty, home decor and business. I have worked with clients from all over the world and developed a place of professional faith and honesty for my quality jobs. I believe in Professionalism. Motivational and satisfied reviews from my clients truly inspire me. Let's discuss your dream project before placing an order.
+Hey! I'm Morzina Pervin. I'm a professional Website Developer. I started my career as a Website Developer back in 2018. I have designed many creative and trendy websites in the fields of technical, health, fitness, beauty, home decor and business. I have<br>  worked with 
+clients from all over the world and developed a place of professional faith and honesty for my quality jobs. I believe in Professionalism. Motivational and satisfied reviews from my clients truly inspire me. Let's discuss your dream project before placing an order.
 
 Skills and Experience:
 
 ✅ Wordpress <br>
-✅ JavaScript
-✅ PHP
-✅ HTML5 / CSS3 / Bootstrap
-✅ Photoshop
-✅ React
-✅
+✅ JavaScript <br>
+✅ PHP <br>
+✅ HTML5 / CSS3 / Bootstrap <br>
+✅ Photoshop <br>
+✅ React <br>
+
 
 ![Profile views](https://gpvc.arturio.dev/morzinapervin)  
 
